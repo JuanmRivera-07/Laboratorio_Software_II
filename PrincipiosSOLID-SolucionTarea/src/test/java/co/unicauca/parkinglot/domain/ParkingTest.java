@@ -8,10 +8,6 @@ import co.unicauca.parkinglot.domainn.TypeEnum;
 import co.unicauca.parkinglot.domainn.Vehicle;
 import java.time.LocalDateTime;
 
-/**
- *
- * @author Rivera
- */
 
     import java.time.Month ;
     import java.util.List ;
